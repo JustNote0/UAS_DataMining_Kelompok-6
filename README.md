@@ -92,11 +92,12 @@ Decision Tree lebih andal dalam mengklasifikasikan kepuasan penumpang dibanding 
 
 ## 📁 Struktur Repository
 
+```
 ├── README.md
 ├── Poster_Project.png
 ├── PROJECT_DATA_MINING_KELOMPOK_6.ipynb
 ├── airline_passenger_satisfaction.csv
-
+```
 
 ---
 
